@@ -25,7 +25,7 @@
     "diagram-js-minimap": "^2.0.3",
     "diagram-js-origin": "^1.3.0",
     "camunda-bpmn-moddle": "^4.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "min-dash": "^3.5.0"
   },
   "devDependencies": {
